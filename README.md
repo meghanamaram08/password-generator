@@ -61,6 +61,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 🙋‍♂️ Author
 
-**Chiranjeevi Kodimela**  
-📧 [chirukodimela@gmail.com]  
-🌐 [GitHub](https://github.com/chiranjeevi-kodimela)
+**Maram Meghana**  
+📧 [meghanamaram8@gmail.com]  
+🌐 [GitHub](https://github.com/meghanamaram08)
