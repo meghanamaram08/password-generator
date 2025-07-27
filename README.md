@@ -23,7 +23,7 @@ A simple and responsive web app to generate strong, customizable passwords. Buil
 ---
 
 ## ScreenShot
-<img width="1920" height="1080" alt="Screenshot 2025-07-27 143423" src="https://github.com/user-attachments/assets/03d65c18-a969-496c-bb1b-b8c5cd1ab496" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 144241" src="https://github.com/user-attachments/assets/eaf04c5c-d2b2-4102-9aa2-145f1acf0406" />
 
 ## 🛠️ How to Run Locally
 
